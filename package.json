@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^13.0.3",
     "dotenv": "^17.4.2",
+    "jose": "^6.2.8",
     "mssql": "^12.5.5",
     "next": "16.2.7",
     "react": "19.2.4",
